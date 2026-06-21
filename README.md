@@ -41,3 +41,11 @@ print(f"Palavras salvas na memória de segundo plano: {texto_salvo}...")
 🚀 Diferencial de Mercado
 ​Eficiência: Estabiliza o consumo de memória em linha reta durante a ingestão de múltiplos dados.
 ​Precisão: Mantém os tokens como inteiros puros, eliminando alucinações por arredondamento de casas decimais.
+
+### 🏃 Como Executar o Teste
+1. Certifique-se de ter o Python instalado.
+2. Baixe o arquivo do projeto ou copie o código.
+3. Execute o comando no seu terminal:
+   ```bash
+   python main.py
+
